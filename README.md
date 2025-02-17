@@ -49,10 +49,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lowji194">
-    <img src="https://komarev.com/ghpvc/?username=lowji194&color=yellow&style=for-the-badge" alt="Profile Views">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
