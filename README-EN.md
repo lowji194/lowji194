@@ -89,9 +89,9 @@ Some interesting Tampermonkey scripts position
 ---
 
 ## 📫 Contact me
-📞 **Phone:** 0963 159 294
-🌐 **Website:** [lowji194.github.io](https://lowji194.github.io/)
-📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)
+📞 **SĐT:** 0963 159 294  
+🌐 **Website:** [lowji194.github.io](https://lowji194.github.io/)  
+📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)  
 
 ---
 
