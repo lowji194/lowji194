@@ -58,10 +58,10 @@ Some interesting Tampermonkey scripts position
 ## 🛠 Skills & Tools
 
 🔹 **Programming Language:**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=wh ite)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-%23007EC6.svg?style=flat&logo=curl&logoColor=white)
@@ -69,7 +69,7 @@ Some interesting Tampermonkey scripts position
 🔹 **Tools & Frameworks:**
 ![Notepad++](https://img.shields.io/badge/Notepad++-%2388CC02.svg?style=flat&logo=notepad%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23239120.svg?style=flat&logo=powershell&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoCol or=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-%23FF6F00.svg?style=flat&logo=robot-framework&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
@@ -89,7 +89,7 @@ Some interesting Tampermonkey scripts position
 ---
 
 ## 📫 Contact me
-📞 **SĐT:** 0963 159 294  
+📞 **Phone:** 0963 159 294  
 🌐 **Website:** [lowji194.github.io](https://lowji194.github.io/)  
 📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)  
 
