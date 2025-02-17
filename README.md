@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lowji194&theme=radical" alt="GitHub Streak">
+  <img src="https://komarev.com/ghpvc/?username=lowji194&color=blue&style=flat" alt="Profile Views">
 </p>
 
 ---
