@@ -47,6 +47,12 @@ Theme DarkMode cho Notepad++
 🔹 **[Module Magisk](https://github.com/lowji194/linh-tinh/tree/main/Module-Magisk)**  
 Module Magisk: Tự dộng mở Port TCP 5555 và Tự động xác nhận kết nối ADB dành cho người không biết Mod rom
 
+🔹 **[aaPanel 7 Premium](https://github.com/lowji194/linh-tinh/tree/main/AAPanel)**  
+aaPanel có chức năng quản lý cài đặt và cấu hình web server (Apache, Nginx), cơ sở dữ liệu (MySQL, MariaDB), PHP, SSL
+
+🔹 **[Script Tampermonkey](https://github.com/lowji194/Tampermonkey)**  
+1 vài script Tampermonkey thú vị
+
 ---
 
 ## 🛠 Kỹ năng & Công cụ  
