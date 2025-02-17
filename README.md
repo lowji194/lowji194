@@ -41,6 +41,12 @@ Xử lý chuỗi văn bản, kiểm tra UID Facebook và Avatar.
 🔹 **[Thống kê chi tiêu, đơn hàng Shopee](https://github.com/lowji194/linh-tinh/tree/main/thong-ke-shopee)**  
 Công cụ thống kê chi tiêu và đơn hàng Shopee.
 
+🔹 **[Cài DarkMode cho Notepad++](https://github.com/lowji194/linh-tinh/tree/main/DarkNotepad++)**  
+Theme DarkMode cho Notepad++
+
+🔹 **[Module Magisk](https://github.com/lowji194/linh-tinh/tree/main/Module-Magisk)**  
+Module Magisk: Tự dộng mở Port TCP 5555 và Tự động xác nhận kết nối ADB dành cho người không biết Mod rom
+
 ---
 
 ## 🛠 Kỹ năng & Công cụ  
