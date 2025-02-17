@@ -1,3 +1,4 @@
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README-EN.md)
 <h1 align="center">Xin chào! Tôi là Nguyễn Thế Lợi 👋</h1>
 
 <p align="center">
