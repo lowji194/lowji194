@@ -76,7 +76,8 @@ Module Magisk: Tự dộng mở Port TCP 5555 và Tự động xác nhận kết
   <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowji194&layout=compact&theme=radical" alt="Most Used Languages">
+  <img height="180em src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowji194&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
