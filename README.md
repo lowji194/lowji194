@@ -38,7 +38,7 @@ Bộ lọc quảng cáo cho trình duyệt sử dụng Ublock/AdGuard.
 🔹 **[Công cụ xử lý chuỗi văn bản, check live UID, check Avatar Facebook](http://lowji194.github.io/cat)**  
 Xử lý chuỗi văn bản, kiểm tra UID Facebook và Avatar.
 
-🔹 **[Thống kê chi tiêu, đơn hàng Shopee](https://github.com/lowji194/linh-tinh/tree/main/thong-ke-shopee)**  
+🔹 **[Thống kê chi tiêu, đơn hàng Shopee](https://github.com/lowji194/Shopee-statistics)**  
 Công cụ thống kê chi tiêu và đơn hàng Shopee.
 
 🔹 **[Cài DarkMode cho Notepad++](https://github.com/lowji194/Npp-1-Dark)**  
