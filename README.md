@@ -14,9 +14,9 @@
 ## 👨‍💻 Về tôi  
 🚀 Tôi là một lập trình viên đam mê công nghệ, luôn tìm tòi và khám phá những điều mới mẻ trong thế giới lập trình. Tôi tập trung vào phát triển phần mềm, tối ưu hóa hệ thống và ứng dụng mã nguồn mở.
 
-- 🔭 Đang làm việc và nghiên cứu về **PowerShell, Batch Script, Notepad++ Customization**
+- 🔭 Đang làm việc với **Batch Script, Javascript, C#, PHP**
 - 💡 Quan tâm đến **DevOps, Tự động hóa, Lập trình web, Web Scraping**
-- 🌱 Hiện đang học sâu hơn về **C#, Selenium, Web Automation, Shell Scripting**
+- 🌱 Hiện đang học sâu hơn về **Python, Shell Script, Request**
 - ⚡ Sở thích: **Coding, Chia sẻ kiến thức, Xây dựng Tool hữu ích**
 
 ---
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowji194&theme=radical" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=lowji194&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
