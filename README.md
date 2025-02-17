@@ -50,10 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/lowji194">
-    <img src="https://komarev.com/ghpvc/?username=lowji194&color=yellow&style=for-the-badge" alt="Profile Views">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+    <img src="https://komarev.com/ghpvc/?username=lowji194&color=ff69b4&style=flat-square&label=👀+Lượt+Xem" alt="Profile Views" />
   </a>
 </p>
+
 
 
 ---
