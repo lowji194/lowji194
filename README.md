@@ -32,7 +32,7 @@
 🔹 **[Đọc thư Hotmail thông qua OAuth2](https://theloi.io.vn/hotmail/)**  
 Công cụ đọc thư Hotmail thông qua OAuth2.
 
-🔹 **[Bộ lọc quảng cáo cho Ublock/AdGuard](https://github.com/lowji194/linh-tinh/blob/main/filter_ads)**  
+🔹 **[Bộ lọc quảng cáo cho Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**  
 Bộ lọc quảng cáo cho trình duyệt sử dụng Ublock/AdGuard.
 
 🔹 **[Công cụ xử lý chuỗi văn bản, check live UID, check Avatar Facebook](http://lowji194.github.io/cat)**  
