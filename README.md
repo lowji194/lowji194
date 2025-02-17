@@ -15,23 +15,31 @@
 🚀 Tôi là một lập trình viên đam mê công nghệ, luôn tìm tòi và khám phá những điều mới mẻ trong thế giới lập trình. Tôi tập trung vào phát triển phần mềm, tối ưu hóa hệ thống và ứng dụng mã nguồn mở.
 
 - 🔭 Đang làm việc và nghiên cứu về **PowerShell, Batch Script, Notepad++ Customization**
-- 💡 Quan tâm đến **DevOps, Tự động hóa, Lập trình nhúng**
-- 🌱 Hiện đang học sâu hơn về **Python, Shell Script, Web Automation**
+- 💡 Quan tâm đến **DevOps, Tự động hóa, Lập trình web, Web Scraping**
+- 🌱 Hiện đang học sâu hơn về **C#, Selenium, Web Automation, Shell Scripting**
 - ⚡ Sở thích: **Coding, Chia sẻ kiến thức, Xây dựng Tool hữu ích**
 
 ---
 
 ## 🛠 Kỹ năng & Công cụ  
+
 🔹 **Ngôn ngữ lập trình:**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-%23007EC6.svg?style=flat&logo=curl&logoColor=white)
 
 🔹 **Công cụ & Frameworks:**  
 ![Notepad++](https://img.shields.io/badge/Notepad++-%2388CC02.svg?style=flat&logo=notepad%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23239120.svg?style=flat&logo=powershell&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-%23FF6F00.svg?style=flat&logo=robot-framework&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 
 ---
 
