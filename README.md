@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://zalo.me/0963159294" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-%2300A859.svg?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
+    <img src="https://img.shields.io/badge/Zalo-%230182CA.svg?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
   </a>
   <a href="https://lowji194.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
