@@ -1,7 +1,6 @@
 <h1 align="center">Hello! I'm Nguyen The Loi 👋</h1>
-
-<p align="center">
  [![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
+<p align="center">
  <a href="https://www.facebook.com/Lowji194/" target="_blank">
  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
  </a>
