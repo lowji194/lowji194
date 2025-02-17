@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About me  [![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
+## [![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md) 👨‍💻 About me
 🚀 I am a programmer who is passionate about technology, always exploring and discovering new things in the programming world. I focus on software development, system optimization and open source applications.
 
 - 🔭 Currently working with **Batch Script, Javascript, C#, PHP**
