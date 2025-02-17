@@ -44,7 +44,7 @@ Công cụ thống kê chi tiêu và đơn hàng Shopee.
 🔹 **[Cài DarkMode cho Notepad++](https://github.com/lowji194/Npp-1-Dark)**  
 Theme DarkMode cho Notepad++
 
-🔹 **[Module Magisk](https://github.com/lowji194/linh-tinh/tree/main/Module-Magisk)**  
+🔹 **[Module Magisk](https://github.com/lowji194/Module-Magisk)**  
 Module Magisk: Tự dộng mở Port TCP 5555 và Tự động xác nhận kết nối ADB dành cho người không biết Mod rom
 
 🔹 **[aaPanel 7 Premium](https://github.com/lowji194/aaPanel)**  
