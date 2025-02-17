@@ -45,15 +45,12 @@
 
 ## 📊 Thống kê GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
 </p>
 
 <p align="center">
-  <a href="https://github.com/lowji194">
-    <img src="https://komarev.com/ghpvc/?username=lowji194&color=ff69b4&style=flat-square&label=👀+Lượt+Xem" alt="Profile Views" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
 
 
 ---
