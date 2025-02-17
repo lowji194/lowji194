@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào! Tôi là Nguyễn Thế Lợi 👋</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/Lowji194/" target="_blank">
+  <a target="_blank" href="https://www.facebook.com/Lowji194/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://lowji194.github.io/" target="_blank">
