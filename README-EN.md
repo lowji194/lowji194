@@ -42,6 +42,9 @@ Text string processing, check Facebook UID and Avatar.
 🔹 **[Shopee spending and order statistics](https://github.com/lowji194/Shopee-statistics)**
 Shopee spending and order statistics tool.
 
+🔹 **[Look up fines](https://github.com/lowji194/tracuuphatnguoi)** 
+Look up fines for cars and motorbikes
+
 🔹 **[Install DarkMode for Notepad++](https://github.com/lowji194/Npp-1-Dark)**
 DarkMode Theme for Notepad++
 
