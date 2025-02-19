@@ -42,6 +42,9 @@ Xử lý chuỗi văn bản, kiểm tra UID Facebook và Avatar.
 🔹 **[Thống kê chi tiêu, đơn hàng Shopee](https://github.com/lowji194/Shopee-statistics)**  
 Công cụ thống kê chi tiêu và đơn hàng Shopee.
 
+🔹 **[Tra cứu phạt nguội](https://github.com/lowji194/tracuuphatnguoi)**  
+Tra cứu phạt nguội ôtô, xe máy
+
 🔹 **[Cài DarkMode cho Notepad++](https://github.com/lowji194/Npp-1-Dark)**  
 Theme DarkMode cho Notepad++
 
