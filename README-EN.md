@@ -42,6 +42,12 @@ Text string processing, check Facebook UID and Avatar.
 🔹 **[Shopee spending and order statistics](https://github.com/lowji194/Shopee-statistics)**
 Shopee spending and order statistics tool.
 
+🔹 **[Telegram bot to look up fines](https://github.com/lowji194/Bot-telegram-Tracuuphatnguoi)** 
+Bot to look up fines for cars and motorbikes periodically
+
+🔹 **[HTML to look up fines](https://github.com/lowji194/tracuuphatnguoi)** 
+HTML to look up fines for cars and motorbikes
+
 🔹 **[Look up fines](https://github.com/lowji194/tracuuphatnguoi)** 
 Look up fines for cars and motorbikes
 
