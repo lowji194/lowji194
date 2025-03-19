@@ -30,13 +30,13 @@
 
 ## 💼 My project
 
-🔹 **[Read Hotmail emails via OAuth2](https://theloi.io.vn/hotmail/)**
+🔹 **[Read Hotmail emails via OAuth2](https://theloi.io.vn/tools/)**
 A tool to read Hotmail emails via OAuth2.
 
 🔹 **[Ad Filter for Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**
 Ad Filter for browsers using Ublock/AdGuard.
 
-🔹 **[Extension Cookie Manager]((https://github.com/lowji194/Extension-Cookie-Manager))**  
+🔹 **[Extension Cookie Manager](https://github.com/lowji194/Extension-Cookie-Manager)**  
 Export/Import Cookie Manager
 
 🔹 **[Shopee spending and order statistics](https://github.com/lowji194/Shopee-statistics)**
