@@ -30,14 +30,14 @@
 
 ## 💼 Dự án của tôi  
 
-🔹 **[Đọc thư Hotmail thông qua OAuth2](https://theloi.io.vn/hotmail/)**  
+🔹 **[Đọc thư Hotmail thông qua OAuth2](https://theloi.io.vn/tools/)**  
 Công cụ đọc thư Hotmail thông qua OAuth2.
 
 🔹 **[Bộ lọc quảng cáo cho Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**  
 Bộ lọc quảng cáo cho trình duyệt sử dụng Ublock/AdGuard.
 
-🔹 **[Công cụ xử lý chuỗi văn bản, check live UID, check Avatar Facebook](http://lowji194.github.io/cat)**  
-Xử lý chuỗi văn bản, kiểm tra UID Facebook và Avatar.
+🔹 **[Extension Cookie Manager]((https://github.com/lowji194/Extension-Cookie-Manager))**  
+Xuất/Nhập quản lý Cookie
 
 🔹 **[Thống kê chi tiêu, đơn hàng Shopee](https://github.com/lowji194/Shopee-statistics)**  
 Công cụ thống kê chi tiêu và đơn hàng Shopee.
