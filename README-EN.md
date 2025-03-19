@@ -36,8 +36,8 @@ A tool to read Hotmail emails via OAuth2.
 🔹 **[Ad Filter for Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**
 Ad Filter for browsers using Ublock/AdGuard.
 
-🔹 **[Text string processing tool, check live UID, check Facebook Avatar](http://lowji194.github.io/cat)**
-Text string processing, check Facebook UID and Avatar.
+🔹 **[Extension Cookie Manager]((https://github.com/lowji194/Extension-Cookie-Manager))**  
+Export/Import Cookie Manager
 
 🔹 **[Shopee spending and order statistics](https://github.com/lowji194/Shopee-statistics)**
 Shopee spending and order statistics tool.
