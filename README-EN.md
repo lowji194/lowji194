@@ -86,6 +86,11 @@ Some interesting Tampermonkey scripts position
 
 ---
 
+## 📫 Contact me
+📞 **Phone:** 0963 159 294  
+🌐 **Website:** [lowji194.github.io](https://lowji194.github.io/)  
+📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)  
+
 ## 📊 GitHub Statistics
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
@@ -96,11 +101,6 @@ Some interesting Tampermonkey scripts position
 </p>
 
 ---
-
-## 📫 Contact me
-📞 **Phone:** 0963 159 294  
-🌐 **Website:** [lowji194.github.io](https://lowji194.github.io/)  
-📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)  
 
 ---
 
