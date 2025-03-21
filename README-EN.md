@@ -91,6 +91,8 @@ Some interesting Tampermonkey scripts position
 🌐 **Website:** [lowji194.github.io](https://lowji194.github.io/)  
 📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)  
 
+---
+
 ## 📊 GitHub Statistics
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
@@ -99,8 +101,6 @@ Some interesting Tampermonkey scripts position
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowji194&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-
----
 
 ---
 
