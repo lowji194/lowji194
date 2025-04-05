@@ -33,6 +33,9 @@
 🔹 **[Read Hotmail emails via OAuth2](https://theloi.io.vn/tools/)**
 A tool to read Hotmail emails via OAuth2.
 
+🔹 **[Email Generator - temp mail, fake email](https://mail.theloi.io.vn/)**  
+Create a temporary email, fake email, or custom domain email for receiving messages, codes, or registering accounts.
+
 🔹 **[Ad Filter for Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**
 Ad Filter for browsers using Ublock/AdGuard.
 
