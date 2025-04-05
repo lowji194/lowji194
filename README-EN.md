@@ -31,7 +31,6 @@
 ## 💼 My project
 
 🔹 **[Read Hotmail emails via OAuth2](https://theloi.io.vn/tools/)**
-
 A tool to read Hotmail emails via OAuth2.
 
 🔹 **[Email Generator - temp mail, fake email](https://mail.theloi.io.vn/)**  
