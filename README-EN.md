@@ -30,6 +30,40 @@
 
 ## 💼 My project
 
+🔹 **[Read Hotmail emails via OAuth2](https://theloi.io.vn/tools/)**
+A tool to read Hotmail emails via OAuth2.
+
+🔹 **[Email Generator - temp mail, fake email](https://mail.theloi.io.vn/)**  
+Create a temporary email, fake email, or custom domain email for receiving messages, codes, or registering accounts.
+
+🔹 **[Ad Filter for Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**
+Ad Filter for browsers using Ublock/AdGuard.
+
+🔹 **[Extension Cookie Manager](https://github.com/lowji194/Extension-Cookie-Manager)**  Export/Import Cookie Manager
+
+🔹 **[Shopee spending and order statistics](https://github.com/lowji194/Shopee-statistics)**
+Shopee spending and order statistics tool.
+
+🔹 **[Telegram bot to look up fines](https://github.com/lowji194/Bot-telegram-Tracuuphatnguoi)** 
+Bot to look up fines for cars and motorbikes periodically
+
+🔹 **[HTML to look up fines](https://github.com/lowji194/tracuuphatnguoi)** 
+HTML to look up fines for cars and motorbikes
+
+🔹 **[Look up fines](https://github.com/lowji194/tracuuphatnguoi)** 
+Look up fines for cars and motorbikes
+
+🔹 **[Install DarkMode for Notepad++](https://github.com/lowji194/Npp-1-Dark)**
+DarkMode Theme for Notepad++
+
+🔹 **[Magisk Module](https://github.com/lowji194/Module-Magisk)**
+Magisk Module: Automatically open TCP Port 5555 and Automatically confirm ADB connection for those who don't know how to Mod rom
+
+🔹 **[aaPanel 7 Premium](https://github.com/lowji194/aaPanel)**
+aaPanel has the function of managing the installation and configuration of web server (Apache, Nginx), database (MySQL, MariaDB), PHP, SSL
+
+🔹 **[Tampermonkey Script](https://github.com/lowji194/Tampermonkey)**
+Some interesting Tampermonkey scripts position
 
 ---
 
