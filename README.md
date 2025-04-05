@@ -33,6 +33,9 @@
 🔹 **[Đọc thư Hotmail thông qua OAuth2](https://theloi.io.vn/tools/)**  
 Công cụ đọc thư Hotmail thông qua OAuth2.
 
+🔹 **[Email Generator - temp mail, fake email](https://mail.theloi.io.vn/)**  
+Tạo email ảo, emailfake, emaildomain nhận thư, code, reg tài khoản.
+
 🔹 **[Bộ lọc quảng cáo cho Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**  
 Bộ lọc quảng cáo cho trình duyệt sử dụng Ublock/AdGuard.
 
