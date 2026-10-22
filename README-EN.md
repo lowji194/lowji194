@@ -29,37 +29,24 @@ I enjoy exploring technology and building useful tools for everyday work. My pro
 
 ## 💼 Projects & Utilities
 
-🔹 **[Read Hotmail emails via OAuth2](https://theloi.io.vn/tools/)**
-A tool to read Hotmail emails via OAuth2.
+🔹 **[ChatGPT2Api English](https://github.com/lowji194/ChatGPT2Api-english)**  
+An edition based on upstream ChatGPT2API, with Vietnamese–English UI, OpenAI-compatible APIs, and an operations console.
 
-🔹 **[Email Generator - temp mail, fake email](https://mail.theloi.io.vn/)**  
-A tool for temporary inboxes and receiving email on custom domains.
+🔹 **[Oh-MyPosh AIO Setup](https://github.com/lowji194/Oh-MyPosh-AIO_PowerShell_Setup)**  
+Terminal setup scripts for Windows and Ubuntu/Debian, including Oh My Posh, Nerd Font, command suggestions, and fuzzy search.
 
-🔹 **[Ad Filter for Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**
-Ad Filter for browsers using Ublock/AdGuard.
+🔹 **[LA Studio](https://github.com/lowji194/LA-Studio)**  
+A C++/Qt desktop application for local AI audio: speech-to-text, text-to-speech, and model management.
 
-🔹 **[Extension Cookie Manager](https://github.com/lowji194/Extension-Cookie-Manager)**  Manage, export, and import browser cookies.
+🔹 **[AtxSharp](https://github.com/lowji194/AtxSharp)**  
+A C# library for working with atx-agent to find UI elements, interact with Android devices, and capture screenshots.
 
-🔹 **[Shopee spending and order statistics](https://github.com/lowji194/Shopee-statistics)**
-Shopee spending and order statistics tool.
+🔹 **[Gmail Web Client](https://github.com/lowji194/GmailWebClient)**  
+A web interface and API for reading Gmail through Google Apps Script, with subject and sender filters.
 
-🔹 **[Telegram bot to look up fines](https://github.com/lowji194/Bot-telegram-Tracuuphatnguoi)** 
-Bot to look up fines for cars and motorbikes periodically
+🔹 **[Mini Google Drive](https://github.com/lowji194/mini-google-drive)**  
+A web application for uploading, managing, and sharing files through the Google Drive API.
 
-🔹 **[HTML to look up fines](https://github.com/lowji194/tracuuphatnguoi)** 
-HTML to look up fines for cars and motorbikes
-
-🔹 **[Install DarkMode for Notepad++](https://github.com/lowji194/Npp-1-Dark)**
-DarkMode Theme for Notepad++
-
-🔹 **[Magisk Module](https://github.com/lowji194/Module-Magisk)**
-Magisk Module: Automatically open TCP Port 5555 and Automatically confirm ADB connection for those who don't know how to Mod rom
-
-🔹 **[aaPanel 7 Premium](https://github.com/lowji194/aaPanel)**
-aaPanel has the function of managing the installation and configuration of web server (Apache, Nginx), database (MySQL, MariaDB), PHP, SSL
-
-🔹 **[Tampermonkey Script](https://github.com/lowji194/Tampermonkey)**
-A collection of Tampermonkey scripts for everyday browser tasks.
 
 ---
 

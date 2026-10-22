@@ -27,40 +27,26 @@ Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu í
 
 ---
 
-## 💼 Dự án & tiện ích  
+## 💼 Dự án & tiện ích
 
-🔹 **[Đọc thư Hotmail thông qua OAuth2](https://theloi.io.vn/tools/)**  
-Công cụ đọc thư Hotmail thông qua OAuth2.
+🔹 **[ChatGPT2Api English](https://github.com/lowji194/ChatGPT2Api-english)**  
+Bản mở rộng từ ChatGPT2API với giao diện Việt–Anh, API tương thích OpenAI và bảng quản lý vận hành.
 
-🔹 **[Email Generator - temp mail, fake email](https://mail.theloi.io.vn/)**  
-Công cụ tạo hộp thư tạm và nhận email trên tên miền tùy chỉnh.
+🔹 **[Oh-MyPosh AIO Setup](https://github.com/lowji194/Oh-MyPosh-AIO_PowerShell_Setup)**  
+Script thiết lập terminal cho Windows và Ubuntu/Debian: Oh My Posh, Nerd Font, gợi ý lệnh và tìm kiếm nhanh.
 
-🔹 **[Bộ lọc quảng cáo cho Ublock/AdGuard](https://github.com/lowji194/AdsBlock-Filter)**  
-Bộ lọc quảng cáo cho trình duyệt sử dụng Ublock/AdGuard.
+🔹 **[LA Studio](https://github.com/lowji194/LA-Studio)**  
+Ứng dụng C++/Qt cho xử lý giọng nói bằng AI trên máy: chuyển giọng nói thành văn bản, tạo giọng đọc và quản lý mô hình.
 
-🔹 **[Extension Cookie Manager](https://github.com/lowji194/Extension-Cookie-Manager)**  
-Tiện ích quản lý, xuất và nhập cookie trình duyệt.
+🔹 **[AtxSharp](https://github.com/lowji194/AtxSharp)**  
+Thư viện C# làm việc với atx-agent để tìm phần tử giao diện, thao tác và chụp màn hình thiết bị Android.
 
-🔹 **[Thống kê chi tiêu, đơn hàng Shopee](https://github.com/lowji194/Shopee-statistics)**  
-Công cụ thống kê chi tiêu và đơn hàng Shopee.
+🔹 **[Gmail Web Client](https://github.com/lowji194/GmailWebClient)**  
+Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc thư theo tiêu đề hoặc người gửi.
 
-🔹 **[Bot telegram tra cứu phạt nguội](https://github.com/lowji194/Bot-telegram-Tracuuphatnguoi)**  
-Bot Telegram hỗ trợ tra cứu phạt nguội ô tô, xe máy định kỳ.
+🔹 **[Mini Google Drive](https://github.com/lowji194/mini-google-drive)**  
+Ứng dụng web tải lên, quản lý và chia sẻ tệp qua Google Drive API.
 
-🔹 **[HTML tra cứu phạt nguội](https://github.com/lowji194/tracuuphatnguoi)**  
-Giao diện web tra cứu phạt nguội ô tô, xe máy.
-
-🔹 **[Cài DarkMode cho Notepad++](https://github.com/lowji194/Npp-1-Dark)**  
-Giao diện tối cho Notepad++.
-
-🔹 **[Module Magisk](https://github.com/lowji194/Module-Magisk)**  
-Module Magisk: Tự động mở Port TCP 5555 và Tự động xác nhận kết nối ADB dành cho người không biết Mod rom
-
-🔹 **[aaPanel 7 Premium](https://github.com/lowji194/aaPanel)**  
-aaPanel có chức năng quản lý cài đặt và cấu hình web server (Apache, Nginx), cơ sở dữ liệu (MySQL, MariaDB), PHP, SSL
-
-🔹 **[Script Tampermonkey](https://github.com/lowji194/Tampermonkey)**  
-Một số script Tampermonkey hỗ trợ thao tác trên trình duyệt.
 
 ---
 
