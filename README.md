@@ -29,25 +29,9 @@ I enjoy exploring technology and building useful tools for everyday work. My pro
 
 ## 💼 Projects & Utilities
 
-🔹 **[ChatGPT2Api English](https://github.com/lowji194/ChatGPT2Api-english)**  
-An edition based on ChatGPT2API, featuring a Vietnamese–English interface, OpenAI-compatible APIs, and an operations dashboard.
-
-🔹 **[Oh-MyPosh AIO Setup](https://github.com/lowji194/Oh-MyPosh-AIO_PowerShell_Setup)**  
-Terminal setup scripts for Windows and Ubuntu/Debian, including Oh My Posh, Nerd Fonts, command suggestions, and quick search.
-
-🔹 **[LA Studio](https://github.com/lowji194/LA-Studio)**  
-A C++/Qt desktop application for local AI audio processing, including speech-to-text, text-to-speech, and model management.
-
-🔹 **[AtxSharp](https://github.com/lowji194/AtxSharp)**  
-A C# library for working with atx-agent to locate UI elements, interact with Android devices, and capture screenshots.
-
-🔹 **[Gmail Web Client](https://github.com/lowji194/GmailWebClient)**  
-A web interface and API for reading Gmail through Google Apps Script, with filters for email subjects and senders.
-
-🔹 **[Mini Google Drive](https://github.com/lowji194/mini-google-drive)**  
-A web application for uploading, managing, and sharing files through the Google Drive API.
-
----
+<!-- FEATURED_REPOS_START -->
+_This list is automatically refreshed every day from your public GitHub repositories._
+<!-- FEATURED_REPOS_END -->
 
 ## 🛠 Skills & Tools
 
@@ -82,13 +66,9 @@ A web application for uploading, managing, and sharing files through the Google 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowji194&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
+<!-- PROFILE_STATS_START -->
+_Statistics are automatically refreshed by GitHub Actions._
+<!-- PROFILE_STATS_END -->
 
 ---
 
