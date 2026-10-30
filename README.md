@@ -1,5 +1,5 @@
-[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README-EN.md)
-<h1 align="center">Xin chào! Tôi là Nguyễn Thế Lợi 👋</h1>
+[![🇻🇳 Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge&logo=Google%20Translate)](README-VI.md)
+<h1 align="center">Hello! I'm Nguyen The Loi 👋</h1>
 
 <p align="center">
  <a href="https://www.facebook.com/Lowji194/" target="_blank">
@@ -15,45 +15,44 @@
 
 ---
 
-## 👨‍💻 Về tôi  
+## 👨‍💻 About Me
 
-Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu ích cho công việc hằng ngày. Các dự án tôi thực hiện chủ yếu liên quan đến website, ứng dụng Windows và tự động hóa.
+I enjoy exploring technology and building useful tools for everyday work. My projects mainly focus on websites, Windows applications, and automation.
 
-- 🔭 Đang làm việc với **Python, JavaScript, C#, PHP, Batch Script**
-- 💡 Quan tâm đến **DevOps, Tự động hóa, Lập trình web, Web Scraping**
-- 🌱 Tiếp tục tìm hiểu về **Python, Shell Script và API**
-- ⚡ Sở thích: **Viết code, chia sẻ kiến thức, xây dựng công cụ hữu ích**
-- 🤖 Sử dụng AI để hỗ trợ tìm hiểu, viết mã và xử lý nội dung; kiểm tra và điều chỉnh kết quả theo nhu cầu thực tế.
+- 🔭 Currently working with **Python, JavaScript, C#, PHP, and Batch Script**
+- 💡 Interested in **DevOps, automation, web development, and web scraping**
+- 🌱 Continuously learning **Python, shell scripting, and APIs**
+- ⚡ Interests: **Coding, sharing knowledge, and building useful tools**
+- 🤖 I use AI to explore technical topics, assist with coding, and process content. I review and adapt its output to meet practical requirements.
 
 ---
 
-## 💼 Dự án & tiện ích
+## 💼 Projects & Utilities
 
 🔹 **[ChatGPT2Api English](https://github.com/lowji194/ChatGPT2Api-english)**  
-Bản mở rộng từ ChatGPT2API với giao diện Việt–Anh, API tương thích OpenAI và bảng quản lý vận hành.
+An edition based on ChatGPT2API, featuring a Vietnamese–English interface, OpenAI-compatible APIs, and an operations dashboard.
 
 🔹 **[Oh-MyPosh AIO Setup](https://github.com/lowji194/Oh-MyPosh-AIO_PowerShell_Setup)**  
-Script thiết lập terminal cho Windows và Ubuntu/Debian: Oh My Posh, Nerd Font, gợi ý lệnh và tìm kiếm nhanh.
+Terminal setup scripts for Windows and Ubuntu/Debian, including Oh My Posh, Nerd Fonts, command suggestions, and quick search.
 
 🔹 **[LA Studio](https://github.com/lowji194/LA-Studio)**  
-Ứng dụng C++/Qt cho xử lý giọng nói bằng AI trên máy: chuyển giọng nói thành văn bản, tạo giọng đọc và quản lý mô hình.
+A C++/Qt desktop application for local AI audio processing, including speech-to-text, text-to-speech, and model management.
 
 🔹 **[AtxSharp](https://github.com/lowji194/AtxSharp)**  
-Thư viện C# làm việc với atx-agent để tìm phần tử giao diện, thao tác và chụp màn hình thiết bị Android.
+A C# library for working with atx-agent to locate UI elements, interact with Android devices, and capture screenshots.
 
 🔹 **[Gmail Web Client](https://github.com/lowji194/GmailWebClient)**  
-Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc thư theo tiêu đề hoặc người gửi.
+A web interface and API for reading Gmail through Google Apps Script, with filters for email subjects and senders.
 
 🔹 **[Mini Google Drive](https://github.com/lowji194/mini-google-drive)**  
-Ứng dụng web tải lên, quản lý và chia sẻ tệp qua Google Drive API.
-
+A web application for uploading, managing, and sharing files through the Google Drive API.
 
 ---
 
-## 🛠 Kỹ năng & Công cụ  
+## 🛠 Skills & Tools
 
-🔹 **Ngôn ngữ lập trình:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
+🔹 **Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -61,7 +60,7 @@ Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc th
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-%23007EC6.svg?style=flat&logo=curl&logoColor=white)
 
-🔹 **Công cụ & Frameworks:**  
+🔹 **Tools & Frameworks:**  
 ![Notepad++](https://img.shields.io/badge/Notepad++-%2388CC02.svg?style=flat&logo=notepad%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23239120.svg?style=flat&logo=powershell&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
@@ -72,16 +71,16 @@ Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc th
 
 ---
 
-## 📫 Liên hệ với tôi  
+## 📫 Contact
 
 ✉️ **Email:** [theloi194@gmail.com](mailto:theloi194@gmail.com)  
-📞 **SĐT:** 0963 159 294  
+📞 **Phone:** 0963 159 294  
 🌐 **Website:** [theloi.io.vn](https://theloi.io.vn/)  
-📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)  
+📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)
 
 ---
 
-## 📊 Thống kê GitHub  
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
@@ -93,4 +92,4 @@ Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc th
 
 ---
 
-Cảm ơn bạn đã ghé xem. Nếu gặp lỗi hoặc có góp ý, bạn có thể mở issue tại repository tương ứng.
+Thanks for visiting! If you find a bug or have a suggestion, feel free to open an issue in the relevant repository.
