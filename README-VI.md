@@ -29,25 +29,9 @@ Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu í
 
 ## 💼 Dự án & tiện ích
 
-🔹 **[ChatGPT2Api English](https://github.com/lowji194/ChatGPT2Api-english)**  
-Bản mở rộng từ ChatGPT2API với giao diện Việt–Anh, API tương thích OpenAI và bảng quản lý vận hành.
-
-🔹 **[Oh-MyPosh AIO Setup](https://github.com/lowji194/Oh-MyPosh-AIO_PowerShell_Setup)**  
-Script thiết lập terminal cho Windows và Ubuntu/Debian: Oh My Posh, Nerd Font, gợi ý lệnh và tìm kiếm nhanh.
-
-🔹 **[LA Studio](https://github.com/lowji194/LA-Studio)**  
-Ứng dụng C++/Qt cho xử lý giọng nói bằng AI trên máy: chuyển giọng nói thành văn bản, tạo giọng đọc và quản lý mô hình.
-
-🔹 **[AtxSharp](https://github.com/lowji194/AtxSharp)**  
-Thư viện C# làm việc với atx-agent để tìm phần tử giao diện, thao tác và chụp màn hình thiết bị Android.
-
-🔹 **[Gmail Web Client](https://github.com/lowji194/GmailWebClient)**  
-Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc thư theo tiêu đề hoặc người gửi.
-
-🔹 **[Mini Google Drive](https://github.com/lowji194/mini-google-drive)**  
-Ứng dụng web tải lên, quản lý và chia sẻ tệp qua Google Drive API.
-
----
+<!-- FEATURED_REPOS_START -->
+_Danh sách repository được GitHub Actions tự động cập nhật mỗi ngày._
+<!-- FEATURED_REPOS_END -->
 
 ## 🛠 Kỹ năng & Công cụ
 
@@ -82,13 +66,9 @@ Giao diện web và API đọc Gmail qua Google Apps Script, hỗ trợ lọc th
 
 ## 📊 Thống kê GitHub
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lowji194&color=orange&style=for-the-badge" alt="Profile Views">
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowji194&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowji194&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
+<!-- PROFILE_STATS_START -->
+_Thống kê được GitHub Actions tự động cập nhật._
+<!-- PROFILE_STATS_END -->
 
 ---
 
