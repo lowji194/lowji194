@@ -30,7 +30,20 @@ I enjoy exploring technology and building useful tools for everyday work. My pro
 ## 💼 Projects & Utilities
 
 <!-- FEATURED_REPOS_START -->
-_This list is automatically refreshed every day from your public GitHub repositories._
+- **[Source-API-phat-nguoi-csgt.vn](https://github.com/lowji194/Source-API-phat-nguoi-csgt.vn)** — Open\-source project\.
+  <sub>⭐ 27 stars · 🍴 6 forks · Python</sub>
+- **[GmailWebClient](https://github.com/lowji194/GmailWebClient)** — Open\-source project\.
+  <sub>⭐ 19 stars · 🍴 11 forks · HTML</sub>
+- **[linh-tinh](https://github.com/lowji194/linh-tinh)** — Open\-source project\.
+  <sub>⭐ 4 stars · 🍴 1 forks · Shell</sub>
+- **[Script-Free](https://github.com/lowji194/Script-Free)** — Open\-source project\.
+  <sub>⭐ 4 stars · 🍴 6 forks · JavaScript</sub>
+- **[lowji194.github.io](https://github.com/lowji194/lowji194.github.io)** — trang chủ
+  <sub>⭐ 3 stars · 🍴 0 forks · JavaScript</sub>
+- **[tracuuphatnguoi](https://github.com/lowji194/tracuuphatnguoi)** — Open\-source project\.
+  <sub>⭐ 3 stars · 🍴 1 forks · HTML</sub>
+
+<sub>Daily random rotation from the 15 most-starred repositories. View-based ranking requires the optional PROFILE_TRAFFIC_TOKEN secret; without it, the updater falls back to stars.</sub>
 <!-- FEATURED_REPOS_END -->
 
 ## 🛠 Skills & Tools
@@ -67,7 +80,15 @@ _This list is automatically refreshed every day from your public GitHub reposito
 ## 📊 GitHub Statistics
 
 <!-- PROFILE_STATS_START -->
-_Statistics are automatically refreshed by GitHub Actions._
+| Metric | Value |
+|:--|--:|
+| Public repositories | **64** |
+| Stars across public repositories | **251** |
+| Forks across public repositories | **141** |
+| Followers | **51** |
+| Following | **0** |
+
+<sub>Last refreshed: 2026-10-30 08:37 UTC · Source: GitHub REST API. No third-party stats image services are used.</sub>
 <!-- PROFILE_STATS_END -->
 
 ---

@@ -30,7 +30,20 @@ Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu í
 ## 💼 Dự án & tiện ích
 
 <!-- FEATURED_REPOS_START -->
-_Danh sách repository được GitHub Actions tự động cập nhật mỗi ngày._
+- **[Source-API-phat-nguoi-csgt.vn](https://github.com/lowji194/Source-API-phat-nguoi-csgt.vn)** — Open\-source project\.
+  <sub>⭐ 27 stars · 🍴 6 forks · Python</sub>
+- **[GmailWebClient](https://github.com/lowji194/GmailWebClient)** — Open\-source project\.
+  <sub>⭐ 19 stars · 🍴 11 forks · HTML</sub>
+- **[linh-tinh](https://github.com/lowji194/linh-tinh)** — Open\-source project\.
+  <sub>⭐ 4 stars · 🍴 1 forks · Shell</sub>
+- **[Script-Free](https://github.com/lowji194/Script-Free)** — Open\-source project\.
+  <sub>⭐ 4 stars · 🍴 6 forks · JavaScript</sub>
+- **[lowji194.github.io](https://github.com/lowji194/lowji194.github.io)** — trang chủ
+  <sub>⭐ 3 stars · 🍴 0 forks · JavaScript</sub>
+- **[tracuuphatnguoi](https://github.com/lowji194/tracuuphatnguoi)** — Open\-source project\.
+  <sub>⭐ 3 stars · 🍴 1 forks · HTML</sub>
+
+<sub>Tự động chọn ngẫu nhiên mỗi ngày trong 15 repository có nhiều star nhất. Dữ liệu lượt xem cần secret tùy chọn PROFILE_TRAFFIC_TOKEN; nếu chưa cấu hình, hệ thống tự động dùng số star.</sub>
 <!-- FEATURED_REPOS_END -->
 
 ## 🛠 Kỹ năng & Công cụ
@@ -67,7 +80,15 @@ _Danh sách repository được GitHub Actions tự động cập nhật mỗi n
 ## 📊 Thống kê GitHub
 
 <!-- PROFILE_STATS_START -->
-_Thống kê được GitHub Actions tự động cập nhật._
+| Chỉ số | Giá trị |
+|:--|--:|
+| Repository công khai | **64** |
+| Tổng star trên các repository | **251** |
+| Tổng fork trên các repository | **141** |
+| Người theo dõi | **51** |
+| Đang theo dõi | **0** |
+
+<sub>Cập nhật: 2026-10-30 08:37 UTC · Nguồn: GitHub REST API. Không dùng ảnh thống kê từ dịch vụ bên thứ ba.</sub>
 <!-- PROFILE_STATS_END -->
 
 ---
