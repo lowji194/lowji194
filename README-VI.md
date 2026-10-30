@@ -1,16 +1,17 @@
 [![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README.md)
+
 <h1 align="center">Xin chào! Tôi là Nguyễn Thế Lợi 👋</h1>
 
 <p align="center">
- <a href="https://www.facebook.com/Lowji194/" target="_blank">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
- </a>
- <a href="https://t.me/theloi194" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://theloi.io.vn/" target="_blank">
-<img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
-</a>
+  <a href="https://www.facebook.com/Lowji194/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://t.me/theloi194" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://theloi.io.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
+  </a>
 </p>
 
 ---
@@ -20,31 +21,46 @@
 Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu ích cho công việc hằng ngày. Các dự án tôi thực hiện chủ yếu liên quan đến website, ứng dụng Windows và tự động hóa.
 
 - 🔭 Đang làm việc với **Python, JavaScript, C#, PHP, Batch Script**
-- 💡 Quan tâm đến **DevOps, Tự động hóa, Lập trình web, Web Scraping**
+- 💡 Quan tâm đến **DevOps, tự động hóa, lập trình web và Web Scraping**
 - 🌱 Tiếp tục tìm hiểu về **Python, Shell Script và API**
 - ⚡ Sở thích: **Viết code, chia sẻ kiến thức, xây dựng công cụ hữu ích**
 - 🤖 Sử dụng AI để hỗ trợ tìm hiểu, viết mã và xử lý nội dung; kiểm tra và điều chỉnh kết quả theo nhu cầu thực tế.
 
 ---
 
-## 💼 Dự án & tiện ích
+## 💼 Dự án nổi bật
 
-<!-- FEATURED_REPOS_START -->
-- **[Source-API-phat-nguoi-csgt.vn](https://github.com/lowji194/Source-API-phat-nguoi-csgt.vn)** — Open\-source project\.
-  <sub>⭐ 27 stars · 🍴 6 forks · Python</sub>
-- **[GmailWebClient](https://github.com/lowji194/GmailWebClient)** — Open\-source project\.
-  <sub>⭐ 19 stars · 🍴 11 forks · HTML</sub>
-- **[linh-tinh](https://github.com/lowji194/linh-tinh)** — Open\-source project\.
-  <sub>⭐ 4 stars · 🍴 1 forks · Shell</sub>
-- **[Script-Free](https://github.com/lowji194/Script-Free)** — Open\-source project\.
-  <sub>⭐ 4 stars · 🍴 6 forks · JavaScript</sub>
-- **[lowji194.github.io](https://github.com/lowji194/lowji194.github.io)** — trang chủ
-  <sub>⭐ 3 stars · 🍴 0 forks · JavaScript</sub>
-- **[tracuuphatnguoi](https://github.com/lowji194/tracuuphatnguoi)** — Open\-source project\.
-  <sub>⭐ 3 stars · 🍴 1 forks · HTML</sub>
+<p align="center">
+  <a href="https://github.com/lowji194?tab=repositories">
+    <img src="https://theloi.io.vn/dev/github-profile.php?type=repositories&amp;sort=random" alt="Danh sách repository GitHub nổi bật, cập nhật trực tiếp" width="100%">
+  </a>
+</p>
 
-<sub>Tự động chọn ngẫu nhiên mỗi ngày trong 15 repository có nhiều star nhất. Dữ liệu lượt xem cần secret tùy chọn PROFILE_TRAFFIC_TOKEN; nếu chưa cấu hình, hệ thống tự động dùng số star.</sub>
-<!-- FEATURED_REPOS_END -->
+<p align="center"><sub>Dữ liệu repository lấy trực tiếp từ GitHub. Sáu dự án được luân phiên mỗi giờ từ nhóm 15 repository đủ điều kiện có nhiều star nhất. Nhấn vào hình để xem toàn bộ repository.</sub></p>
+
+## 📊 Thống kê GitHub
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=stats" alt="Thống kê GitHub trực tiếp" width="100%">
+</p>
+
+## 🔥 Hoạt động đóng góp
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=contributions" alt="Biểu đồ hoạt động GitHub" width="100%">
+</p>
+
+<sub>Nếu VPS được cấu hình GitHub profile token, biểu đồ sử dụng lịch đóng góp chính thức trong 12 tháng. Nếu chưa có token, hệ thống hiển thị hoạt động công khai gần đây và ghi rõ phạm vi dữ liệu.</sub>
+
+## 🧩 Phân bố ngôn ngữ lập trình
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=languages" alt="Phân bố ngôn ngữ lập trình trong các repository công khai" width="100%">
+</p>
+
+<sub>Tỷ lệ ngôn ngữ được tính từ dung lượng mã nguồn do GitHub cung cấp trên tối đa 20 repository công khai không phải fork có nhiều star nhất.</sub>
+
+---
 
 ## 🛠 Kỹ năng & Công cụ
 
@@ -57,7 +73,7 @@ Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu í
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-%23007EC6.svg?style=flat&logo=curl&logoColor=white)
 
-🔹 **Công cụ & Frameworks:**  
+🔹 **Công cụ & Framework:**  
 ![Notepad++](https://img.shields.io/badge/Notepad++-%2388CC02.svg?style=flat&logo=notepad%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23239120.svg?style=flat&logo=powershell&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
@@ -68,28 +84,12 @@ Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu í
 
 ---
 
-## 📫 Liên hệ với tôi
+## 📫 Liên hệ
 
 ✉️ **Email:** [theloi194@gmail.com](mailto:theloi194@gmail.com)  
 📞 **SĐT:** 0963 159 294  
 🌐 **Website:** [theloi.io.vn](https://theloi.io.vn/)  
 📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)
-
----
-
-## 📊 Thống kê GitHub
-
-<!-- PROFILE_STATS_START -->
-| Chỉ số | Giá trị |
-|:--|--:|
-| Repository công khai | **64** |
-| Tổng star trên các repository | **251** |
-| Tổng fork trên các repository | **141** |
-| Người theo dõi | **51** |
-| Đang theo dõi | **0** |
-
-<sub>Cập nhật: 2026-10-30 08:37 UTC · Nguồn: GitHub REST API. Không dùng ảnh thống kê từ dịch vụ bên thứ ba.</sub>
-<!-- PROFILE_STATS_END -->
 
 ---
 
