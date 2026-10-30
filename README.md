@@ -1,16 +1,17 @@
 [![🇻🇳 Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge&logo=Google%20Translate)](README-VI.md)
+
 <h1 align="center">Hello! I'm Nguyen The Loi 👋</h1>
 
 <p align="center">
- <a href="https://www.facebook.com/Lowji194/" target="_blank">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
- </a>
- <a href="https://t.me/theloi194" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://theloi.io.vn/" target="_blank">
-<img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
-</a>
+  <a href="https://www.facebook.com/Lowji194/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://t.me/theloi194" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://theloi.io.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
+  </a>
 </p>
 
 ---
@@ -27,24 +28,39 @@ I enjoy exploring technology and building useful tools for everyday work. My pro
 
 ---
 
-## 💼 Projects & Utilities
+## 💼 Featured Projects
 
-<!-- FEATURED_REPOS_START -->
-- **[Source-API-phat-nguoi-csgt.vn](https://github.com/lowji194/Source-API-phat-nguoi-csgt.vn)** — Open\-source project\.
-  <sub>⭐ 27 stars · 🍴 6 forks · Python</sub>
-- **[GmailWebClient](https://github.com/lowji194/GmailWebClient)** — Open\-source project\.
-  <sub>⭐ 19 stars · 🍴 11 forks · HTML</sub>
-- **[linh-tinh](https://github.com/lowji194/linh-tinh)** — Open\-source project\.
-  <sub>⭐ 4 stars · 🍴 1 forks · Shell</sub>
-- **[Script-Free](https://github.com/lowji194/Script-Free)** — Open\-source project\.
-  <sub>⭐ 4 stars · 🍴 6 forks · JavaScript</sub>
-- **[lowji194.github.io](https://github.com/lowji194/lowji194.github.io)** — trang chủ
-  <sub>⭐ 3 stars · 🍴 0 forks · JavaScript</sub>
-- **[tracuuphatnguoi](https://github.com/lowji194/tracuuphatnguoi)** — Open\-source project\.
-  <sub>⭐ 3 stars · 🍴 1 forks · HTML</sub>
+<p align="center">
+  <a href="https://github.com/lowji194?tab=repositories">
+    <img src="https://theloi.io.vn/dev/github-profile.php?type=repositories&amp;sort=random" alt="Live featured GitHub repositories" width="100%">
+  </a>
+</p>
 
-<sub>Daily random rotation from the 15 most-starred repositories. View-based ranking requires the optional PROFILE_TRAFFIC_TOKEN secret; without it, the updater falls back to stars.</sub>
-<!-- FEATURED_REPOS_END -->
+<p align="center"><sub>Live repository data from GitHub. Six projects rotate hourly from the 15 most-starred eligible repositories. Click the image to browse all repositories.</sub></p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=stats" alt="Live GitHub profile statistics" width="100%">
+</p>
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=contributions" alt="GitHub contribution activity heatmap" width="100%">
+</p>
+
+<sub>The official 12-month contribution calendar is used when the VPS has a GitHub profile token. Otherwise, this card clearly falls back to recent public activity.</sub>
+
+## 🧩 Language Distribution
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=languages" alt="Programming language distribution across public repositories" width="100%">
+</p>
+
+<sub>Language percentages are calculated from GitHub's language byte counts across up to 20 of the most-starred non-fork public repositories.</sub>
+
+---
 
 ## 🛠 Skills & Tools
 
@@ -74,22 +90,6 @@ I enjoy exploring technology and building useful tools for everyday work. My pro
 📞 **Phone:** 0963 159 294  
 🌐 **Website:** [theloi.io.vn](https://theloi.io.vn/)  
 📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)
-
----
-
-## 📊 GitHub Statistics
-
-<!-- PROFILE_STATS_START -->
-| Metric | Value |
-|:--|--:|
-| Public repositories | **64** |
-| Stars across public repositories | **251** |
-| Forks across public repositories | **141** |
-| Followers | **51** |
-| Following | **0** |
-
-<sub>Last refreshed: 2026-10-30 08:37 UTC · Source: GitHub REST API. No third-party stats image services are used.</sub>
-<!-- PROFILE_STATS_END -->
 
 ---
 
