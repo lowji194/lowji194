@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="hero-title-vi hero-desc-vi">
+  <title id="hero-title-vi">Nguyễn Thế Lợi (lowji194) — Automation &amp; Tooling Developer</title>
+  <desc id="hero-desc-vi">Banner hồ sơ GitHub của Nguyễn Thế Lợi (@lowji194), tập trung vào tiện ích Chromium MV3, ứng dụng Windows và dịch vụ MCP tự vận hành.</desc>
+  <defs>
+    <linearGradient id="bg-vi" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glowBlue-vi" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen-vi" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ade80" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentLine-vi" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="dots-vi" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#475569" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="258" rx="18" fill="url(#bg-vi)" stroke="#263449" stroke-width="1.5"/>
+  <rect x="2" y="2" width="896" height="256" rx="17" fill="url(#dots-vi)"/>
+  <circle cx="790" cy="48" r="165" fill="url(#glowBlue-vi)"/>
+  <circle cx="130" cy="220" r="145" fill="url(#glowGreen-vi)"/>
+  <rect x="42" y="18" width="120" height="3" rx="1.5" fill="url(#accentLine-vi)" opacity="0.9"/>
+
+  <rect x="42" y="34" width="256" height="26" rx="13" fill="#131e2e" stroke="#27384e"/>
+  <circle cx="58" cy="47" r="4" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.45;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="58" cy="47" r="7" fill="none" stroke="#4ade80" stroke-width="1" opacity="0.45">
+    <animate attributeName="r" values="4;9;4" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="72" y="51" fill="#86efac" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.9">HỆ THỐNG · CÔNG CỤ · TỰ ĐỘNG HÓA</text>
+
+  <text x="42" y="102" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" letter-spacing="-0.4">Nguyễn Thế Lợi</text>
+  <text x="42" y="130" fill="#38bdf8" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,monospace" font-size="14" font-weight="600">@lowji194</text>
+  <text x="128" y="130" fill="#64748b" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13">·</text>
+  <text x="142" y="130" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="500">Automation &amp; Tooling Developer · Việt Nam</text>
+
+  <text x="42" y="162" fill="#cbd5e1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5">Phát triển máy chủ MCP tự vận hành, tiện ích Chromium</text>
+  <text x="42" y="182" fill="#cbd5e1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5">MV3 ưu tiên quyền riêng tư và ứng dụng desktop Windows.</text>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">
+    <rect x="42" y="204" width="96" height="26" rx="8" fill="#131e2e" stroke="#27384e"/>
+    <text x="90" y="221" text-anchor="middle" fill="#93c5fd">MCP &amp; AI Ops</text>
+
+    <rect x="146" y="204" width="110" height="26" rx="8" fill="#131e2e" stroke="#27384e"/>
+    <text x="201" y="221" text-anchor="middle" fill="#7dd3fc">Chromium MV3</text>
+
+    <rect x="264" y="204" width="108" height="26" rx="8" fill="#131e2e" stroke="#27384e"/>
+    <text x="318" y="221" text-anchor="middle" fill="#86efac">Windows Apps</text>
+
+    <rect x="380" y="204" width="96" height="26" rx="8" fill="#131e2e" stroke="#27384e"/>
+    <text x="428" y="221" text-anchor="middle" fill="#cbd5e1">API &amp; Bots</text>
+  </g>
+
+  <rect x="514" y="30" width="346" height="200" rx="14" fill="#090f1d" stroke="#27384e" stroke-width="1.2"/>
+  <circle cx="534" cy="47" r="4.5" fill="#ef4444" opacity="0.85"/>
+  <circle cx="549" cy="47" r="4.5" fill="#f59e0b" opacity="0.85"/>
+  <circle cx="564" cy="47" r="4.5" fill="#22c55e" opacity="0.85"/>
+  <text x="582" y="51" fill="#64748b" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,monospace" font-size="11">lowji194.profile — zsh</text>
+  <line x1="514" y1="64" x2="860" y2="64" stroke="#1e293b" stroke-width="1"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,monospace" font-size="11.5">
+    <text x="532" y="88"><tspan fill="#4ade80">$</tspan> <tspan fill="#e2e8f0">cat profile.json</tspan></text>
+    <text x="532" y="112"><tspan fill="#7dd3fc">stack </tspan><tspan fill="#64748b">:</tspan> <tspan fill="#cbd5e1">TS · Python · JS · C#</tspan></text>
+    <text x="532" y="134"><tspan fill="#7dd3fc">build </tspan><tspan fill="#64748b">:</tspan> <tspan fill="#cbd5e1">MCP · MV3 · PyWebView</tspan></text>
+    <text x="532" y="156"><tspan fill="#7dd3fc">infra </tspan><tspan fill="#64748b">:</tspan> <tspan fill="#cbd5e1">Linux · OAuth2 · Docker</tspan></text>
+    <text x="532" y="178"><tspan fill="#7dd3fc">site  </tspan><tspan fill="#64748b">:</tspan> <tspan fill="#38bdf8">https://theloi.io.vn</tspan></text>
+    <text x="532" y="204"><tspan fill="#4ade80">$</tspan></text>
+    <rect x="546" y="193" width="7" height="13" rx="1" fill="#4ade80">
+      <animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
