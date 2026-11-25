@@ -94,3 +94,13 @@ Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu í
 ---
 
 Cảm ơn bạn đã ghé xem. Nếu gặp lỗi hoặc có góp ý, bạn có thể mở issue tại repository tương ứng.
+
+---
+
+## ☕ Ủng hộ những dự án của mình
+
+Nếu những công cụ mình chia sẻ hữu ích với bạn, một ly cà phê là nguồn động lực để mình tiếp tục phát triển và chia sẻ thêm nhiều dự án miễn phí. Cảm ơn bạn!
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg"><img src="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg" width="300" alt="Quét mã QR để ủng hộ"></a>
+</p>
