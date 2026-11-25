@@ -1,106 +1,88 @@
-[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README.md)
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Language-English-1e293b?style=flat-square" alt="English">
+  </a>
+</p>
 
-<h1 align="center">Xin chào! Tôi là Nguyễn Thế Lợi 👋</h1>
+<h1 align="center">Nguyễn Thế Lợi (lowji194)</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/Lowji194/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <strong>Automation &amp; Tooling Developer</strong> · Tiện ích trình duyệt MV3 · Ứng dụng Windows · Hệ thống MCP &amp; Web tự vận hành
+</p>
+
+<p align="center">
+  <a href="https://theloi.io.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-theloi.io.vn-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:theloi194@gmail.com">
+    <img src="https://img.shields.io/badge/Email-theloi194%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/theloi194" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-%40theloi194-26a5e4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://theloi.io.vn/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
+  <a href="https://www.facebook.com/Lowji194/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Lowji194-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Về tôi
+## Giới thiệu
 
-Tôi thích tìm hiểu công nghệ và xây dựng những công cụ hữu ích cho công việc hằng ngày. Các dự án tôi thực hiện chủ yếu liên quan đến website, ứng dụng Windows và tự động hóa.
+Tôi thiết kế và phát triển các công cụ phần mềm thực dụng tập trung vào tự động hóa quy trình, tiện ích mở rộng Chromium Manifest V3, ứng dụng desktop Windows và dịch vụ hạ tầng tự vận hành.
 
-- 🔭 Đang làm việc với **Python, JavaScript, C#, PHP, Batch Script**
-- 💡 Quan tâm đến **DevOps, tự động hóa, lập trình web và Web Scraping**
-- 🌱 Tiếp tục tìm hiểu về **Python, Shell Script và API**
-- ⚡ Sở thích: **Viết code, chia sẻ kiến thức, xây dựng công cụ hữu ích**
-- 🤖 Sử dụng AI để hỗ trợ tìm hiểu, viết mã và xử lý nội dung; kiểm tra và điều chỉnh kết quả theo nhu cầu thực tế.
+- **Đang phát triển:** Máy chủ MCP quản trị hạ tầng (`serverops-mcp`), trình quản lý phiên desktop Windows (`codex-session-manager`) và tiện ích trình duyệt ưu tiên quyền riêng tư (`Extension-ProxyFlow`, `Extension-Cookie-Manager`)
+- **Công nghệ cốt lõi:** TypeScript, Python, JavaScript (Node.js / Express / Next.js), C# (.NET), PowerShell và Bash
+- **Trọng tâm kỹ thuật:** Tự động hóa quy trình, bảo mật OAuth 2.1 & lưu trữ cục bộ, API gateway và vận hành máy chủ Linux
+- **Khu vực:** Từ Sơn, Bắc Ninh, Việt Nam
 
 ---
 
-## 💼 Dự án nổi bật
+## Dự án tiêu biểu
 
 <p align="center">
   <a href="https://github.com/lowji194?tab=repositories">
-    <img src="https://theloi.io.vn/dev/github-profile.php?type=repositories&amp;sort=random" alt="Danh sách repository GitHub nổi bật, cập nhật trực tiếp" width="100%">
+    <img src="https://theloi.io.vn/dev/github-profile.php?type=repositories&amp;sort=stars" alt="Các repository nổi bật theo số sao" width="100%">
   </a>
 </p>
 
-<p align="center"><sub>Dữ liệu repository lấy trực tiếp từ GitHub. Sáu dự án được luân phiên mỗi giờ từ nhóm 15 repository đủ điều kiện có nhiều star nhất. Nhấn vào hình để xem toàn bộ repository.</sub></p>
-
-## 📊 Thống kê GitHub
-
 <p align="center">
-  <img src="https://theloi.io.vn/dev/github-profile.php?type=stats" alt="Thống kê GitHub trực tiếp" width="100%">
+  <sub>Các repository công khai có nhiều star nhất · <a href="https://github.com/lowji194?tab=repositories">Xem toàn bộ repository →</a></sub>
 </p>
-
-## 🔥 Hoạt động đóng góp
-
-<p align="center">
-  <img src="https://theloi.io.vn/dev/github-profile.php?type=contributions" alt="Biểu đồ hoạt động GitHub" width="100%">
-</p>
-
-<sub>Nếu VPS được cấu hình GitHub profile token, biểu đồ sử dụng lịch đóng góp chính thức trong 12 tháng. Nếu chưa có token, hệ thống hiển thị hoạt động công khai gần đây và ghi rõ phạm vi dữ liệu.</sub>
-
-## 🧩 Phân bố ngôn ngữ lập trình
-
-<p align="center">
-  <img src="https://theloi.io.vn/dev/github-profile.php?type=languages" alt="Phân bố ngôn ngữ lập trình trong các repository công khai" width="100%">
-</p>
-
-<sub>Tỷ lệ ngôn ngữ được tính từ dung lượng mã nguồn do GitHub cung cấp trên tối đa 20 repository công khai không phải fork có nhiều star nhất.</sub>
 
 ---
 
-## 🛠 Kỹ năng & Công cụ
-
-🔹 **Ngôn ngữ lập trình:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-![cURL](https://img.shields.io/badge/cURL-%23007EC6.svg?style=flat&logo=curl&logoColor=white)
-
-🔹 **Công cụ & Framework:**  
-![Notepad++](https://img.shields.io/badge/Notepad++-%2388CC02.svg?style=flat&logo=notepad%2B%2B&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%23239120.svg?style=flat&logo=powershell&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-%23FF6F00.svg?style=flat&logo=robot-framework&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
-
----
-
-## 📫 Liên hệ
-
-✉️ **Email:** [theloi194@gmail.com](mailto:theloi194@gmail.com)  
-📞 **SĐT:** 0963 159 294  
-🌐 **Website:** [theloi.io.vn](https://theloi.io.vn/)  
-📌 **Facebook:** [Lowji194](https://www.facebook.com/Lowji194/)
-
----
-
-Cảm ơn bạn đã ghé xem. Nếu gặp lỗi hoặc có góp ý, bạn có thể mở issue tại repository tương ứng.
-
----
-
-## ☕ Ủng hộ những dự án của mình
-
-Nếu những công cụ mình chia sẻ hữu ích với bạn, một ly cà phê là nguồn động lực để mình tiếp tục phát triển và chia sẻ thêm nhiều dự án miễn phí. Cảm ơn bạn!
+## Thống kê GitHub
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg"><img src="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg" width="300" alt="Quét mã QR để ủng hộ"></a>
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=stats" alt="Thống kê GitHub" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://theloi.io.vn/dev/github-profile.php?type=languages" alt="Phân bố ngôn ngữ lập trình" width="100%">
+</p>
+
+---
+
+## Công nghệ sử dụng
+
+**Ngôn ngữ**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Framework & Nền tảng**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
