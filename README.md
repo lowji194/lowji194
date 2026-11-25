@@ -94,3 +94,13 @@ I enjoy exploring technology and building useful tools for everyday work. My pro
 ---
 
 Thanks for visiting! If you find a bug or have a suggestion, feel free to open an issue in the relevant repository.
+
+---
+
+## ☕ Buy me a coffee
+
+If you find this project useful, consider buying me a coffee to support its maintenance and development. Thank you!
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg"><img src="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg" width="300" alt="Donate — scan the QR code"></a>
+</p>
